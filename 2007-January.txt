@@ -1,0 +1,70 @@
+From stefan.fruhner at googlemail.com  Sun Jan 14 17:09:41 2007
+From: stefan.fruhner at googlemail.com (Stefan Fruhner)
+Date: Sun, 14 Jan 2007 17:09:41 +0100
+Subject: [Leastcosterxp-news] neuer Betatest (Sprachdateien, Webinterface,
+	Mindestumsatz, Taktung ... )
+Message-ID: <a48b20460701140809x77651163o4b0f266117a44652@mail.gmail.com>
+
+Hallo,
+
+diesmal gibt es ein Menge zu testen ... im Prinzip die komplette
+Funktionaltität des Programmes. Ich habe überall gearbeitet und es kann
+überall Fehler geben.
+
+die Änderungen:
+
+- Support für Ausweich-LCRs ist rausgeflogen
+
+- WebInterface beruht jetzt auf Templates
+
+Wer Lust hat das Design ein bischen zu verschönern, kann das anhand der
+Dateien im Ordner www\templates tun. Alles was zwischen Prozentzeichen steht
+wird durch LCXP ersetzt. Die Namen der Dateien dürfen sich nicht ändern. Bei
+Pfadangaben kann es sein, dass sie mal mit und ohne ' ../ ' anzugeben sind,
+aber das sieht man dann schon in den Vorlagen
+
+- Sprachdateien
+im Ordner lang liegt die Datei deutsch.lng. Wer lust zum Übersetzen hat,
+kann diese Datei kopieren und umbenennen (aber die Endung stehen lassen). Im
+Einstellungsmenü > Spache wird die Datei dann angezeigt und kann ausgewählt
+werden. Wenn der Haken davor steht, ist die Sprache aktiv, ist kein Haken
+vorhanden, dann gibt es keine Änderung zu vorher. Bitte stellt die Sprache
+ein, damit ihr eventuelle Fehler in der deustch.lng findet und gebt dann
+bescheid.
+
+- Taktung:
+Ich habe das tarifformat angepasst und speichere die taktung jetzzt anders
+ab, so dass auch 60/240 möglich wird
+
+- Mindestumsatz
+ich habe einen mindestumsatz implementiert, konnte aber den Kostenzähler
+nicht testen ... probiert das mal bitte aus.
+
+- Dateiformat:
+Ihr wisst ja was eine Änderung des Dateiformates mit sich bringt. Es sollte
+aber möglich sein, die alte tarife.lcx in den LCXP-Beta Ordner zu kopieren,
+bevor das erste mal gestartet wird. Sie müsste richtig umgewandelt werden.
+Ebenso müsste der Import von Dateien, des alten Formats funktionieren.
+
+-BonGoBon
+Liegt in der Version 0.0.5 bei und kann das alte Format nicht mehr lesen, es
+reicht, wenn LCXP in das neue Format umwandelt, aso den bitte erst starten,
+wenn LCXP das neue Format einmal geschrieben hat.
+
+-Feiertage
+Da die Feiertagsliste bisher in einem bestimmten Datumsformat verwaltet
+wurde, dass nicht besonders allgemeingültig war, habe ich mich entschlossen,
+die Feiertagsliste binär zu speichern. In den Einstellungen gibt es ein
+neues Tab, auf dem die Feiertage editiert werden können.
+
+Ich hoffe ich habe an alles gedacht,
+viel Spass beim Testen
+Stefan Fruhner :)
+
+-- 
+LeastCosterXP - ein LCR zur Modem/ISDN - Einwahl für IbC-Tarife
+http://www.mehrsurfen.de
+-------------- nächster Teil --------------
+Ein Dateianhang mit HTML-Daten wurde abgetrennt...
+URL: <https://lists.berlios.de/pipermail/leastcosterxp-news/attachments/20070114/92b77358/attachment.html>
+

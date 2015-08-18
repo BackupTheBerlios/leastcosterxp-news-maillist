@@ -1,0 +1,88 @@
+From newsletter at leastcosterxp.de  Sun Oct  7 14:00:42 2007
+From: newsletter at leastcosterxp.de (LeastCosterXP News)
+Date: Sun, 07 Oct 2007 14:00:42 +0200
+Subject: [Leastcosterxp-news] LeastCosterXP News
+Message-ID: <E1IeUoM-00028a-04@xail.rohwerder-hinz.net>
+
+WatchTheBox 0.1.1 veröffentlicht
+07.10.2007 - version 0.1.1
+[+] Mehrfachselektierung in den Listen, um gleichzeitig zu löschen
+[b] Bug beim Ändern der Rufnumer im Telefonbuch gefixt
+[+] Namenserkennung aus der Rufnummer optimiert
+[b] Bilder werden beim Ändern des Namens nun auch für den neuen Namen übernommen
+[+] Rückwärtssuche per Checkbox abschaltbar
+[+] die Kommandozeilenoption &#39;-debug&#39; speichert die Anrufmonitor-Nachrichten der Fritzbox in der Datei monitor-messages.txt
+
+-------------------------------------------------------------------------------
+
+Ihr LeastCosterXP Team
+
+
+From newsletter at leastcosterxp.de  Mon Oct 22 15:00:20 2007
+From: newsletter at leastcosterxp.de (LeastCosterXP News)
+Date: Mon, 22 Oct 2007 15:00:20 +0200
+Subject: [Leastcosterxp-news] LeastCosterXP News
+Message-ID: <E1IjwtI-0004eB-Ds@xail.rohwerder-hinz.net>
+
+Achtung: Bug in LeastCosterXP entdeckt
+
+Hallo LeastCosterXP- Gemeinde,
+
+
+ es ist ein Bug in LeastCosterXP entdeckt worden, der dafür sorgt, dass nicht immer automatisch am Tarifende getrennt wird. Dieser tritt bei Tarifen auf, bei denen neben den preisgünstigen auch die teuren Tarifzonen eingetragen wurden, so dass beim Ende der Zone schon eine neue bekannt ist. Bei diesen wird der Trennzeitpunkt schon einige Minuten zu früh altualisiert, so dass beim Wechsel gar nicht getrennt wird. 
+
+
+Im Forum &gt; Bugs liegt eine Testversion, die diesen Fehler schon behoben hat. Um es endgültig anzupassen benötige ich weitere Informationen. Tritt der Fehler noch auf, wenn ja bei welchen Tarifen. Dieser Fehler kann arg ins Geld gehen, also beteiligt Euch bitte. Ich kann ihn nur beheben, wenn ich genau weiß, was zu tun ist. 
+
+
+ Grüße Stefan 
+
+
+-------------------------------------------------------------------------------
+
+Ihr LeastCosterXP Team
+
+
+From newsletter at leastcosterxp.de  Fri Oct 26 11:00:20 2007
+From: newsletter at leastcosterxp.de (LeastCosterXP News)
+Date: Fri, 26 Oct 2007 11:00:20 +0200
+Subject: [Leastcosterxp-news] LeastCosterXP News
+Message-ID: <E1IlL3E-0003lT-R1@xail.rohwerder-hinz.net>
+
+WatchTheBox 0.1.1b veröffentlicht
+
+WatchTheBox wurde wieder ein wenig überarbeitet: 
+
+
+24.10.2007 - version 0.1.1b 
+[+] Zentralenrufnummern können mit der Endung -0 eingeben werden und werden immer mit demselben Eintrag erkannt
+
+
+[+] Überarbeitung der Rufnummernzuordnung
+
+
+[+] &gt; dazu in den Einstellungen Landesvorwahl eintragen (0049 für Deutschland, wichtig: 00 verwenden !)
+
+
+[+] Spaltenbreiten werden nicht mehr automatisch angepasst, sondern so abgespeichert wie der User sie einstellt 
+
+
+ 
+
+
+ 
+
+
+-------------------------------------------------------------------------------
+
+LeastCosterXP 1.4.4.0
+Hoffentlich ist der aufgetretene Bug behoben, aus Ermangelung an Rückmeldungen kann ich dies allerdings nicht mit Bestimmtheit sagen. Die aktuelle Version kann unter Downloads bezogen werden.
+
+ 
+
+
+-------------------------------------------------------------------------------
+
+Ihr LeastCosterXP Team
+
+

@@ -1,0 +1,42 @@
+From newsletter at leastcosterxp.de  Fri Sep 14 22:44:08 2007
+From: newsletter at leastcosterxp.de (LeastCosterXP News)
+Date: Fri, 14 Sep 2007 22:44:08 +0200
+Subject: [Leastcosterxp-news] LeastCosterXP News
+Message-ID: <E1IWI1I-00018z-Gp@xail.rohwerder-hinz.net>
+
+Webseite mit FAQ verheiratet<br><p>
+Die Webseite ist nun enger mit der FAQ verbunden so ist sie immer auf dem neuesten Stand was die News und FAQs betrifft. Die FAQ-Liste aus dem Forum habe ich gelöscht und in das FAQ-System übertragen. Newsmeldungen werden ab sofort schneller auf der Webseite erscheinen, so dasbei Änderungen an meinen Programmen nicht immer mehrere Stellen editieren muss. Damit mache ich mir das Leben leichter und meine Informationspolitik transparenter - hoffe ich. Die FAQ werde ich in der nächsten Zeit noch ein wenig umgestalten um auch dort eine leichtere Handhabung sicherzustellen. 
+</p>
+<p>
+Gleichzeitig bitte ich darum, die FAQ Einträge zu aktulaisieren bzw. fehlende Teile zu ergänzen. Ich habe in der letzten Zeit neue Kategorien für WatchTheBox angelegt. Ich würde mich sehr freuen, wenn jemand ein paar Screenshots mit erklärendem Text einfügen könnte.
+</p>
+<p>
+Der Link auf die FAQ-Seite: 
+</p>
+<p>
+http://leastcosterxp.xail.net/Hilfe 
+</p>
+<p>
+Stefan 
+</p>
+<br>-------------------------------------------------------------------------------<br>Ihr LeastCosterXP Team
+
+
+From newsletter at leastcosterxp.de  Sat Sep 29 12:00:45 2007
+From: newsletter at leastcosterxp.de (LeastCosterXP News)
+Date: Sat, 29 Sep 2007 12:00:45 +0200
+Subject: [Leastcosterxp-news] LeastCosterXP News
+Message-ID: <E1IbZ7t-0005gw-2S@xail.rohwerder-hinz.net>
+
+WatchTheBox 0.0.9 veröffentlicht
+WatchTheBox hat neue Features: 
+
+
+[b] TelefonLED wird beim neustart des telefond abgeschaltet
+[+] CallbyCall-Vorwahlen können in der Datei CallbyCall.txt definiert werden, so dass sie bei der Rückwärtssuche und dem Wählen herausgefiltert werden können
+[+] ist das Anruffenster außerhalb des Anzeigebreiches, wird es in der Ecke platziert
+[+] ist die Nummer zu lang wird das Anruffenster verbreitert 
+
+-------------------------------------------------------------------------------Ihr LeastCosterXP Team
+
+

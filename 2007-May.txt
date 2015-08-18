@@ -1,0 +1,49 @@
+From stefan.fruhner at googlemail.com  Sat May 26 11:06:43 2007
+From: stefan.fruhner at googlemail.com (Stefan Fruhner)
+Date: Sat, 26 May 2007 11:06:43 +0200
+Subject: [Leastcosterxp-news] Tarifdatenbank online!
+Message-ID: <a48b20460705260206y48c5149aw44379465a81b44b9@mail.gmail.com>
+
+Hallo,
+
+so es ist im Prinzip soweit: die Tarifdatenbank ist online. Anmeldungen sind
+unter
+
+http://darkempire.da.funpic.de/php/TarifDB
+
+möglich. Das nötige PlugIn, um die Daten in den LeastCosterXP zu importieren
+liegt im Forum. hylli hat gestern die Datenbank mit einigen aktuellen
+Tarifen gefüttert. Lasst ihn die Arbeit nicht alleine machen, es profitieren
+alle davon :)
+
+Grüße Stefan
+
+
+-- 
+LeastCosterXP - ein LCR zur Modem/ISDN - Einwahl für IbC-Tarife
+http://www.mehrsurfen.de
+-------------- nächster Teil --------------
+Ein Dateianhang mit HTML-Daten wurde abgetrennt...
+URL: <https://lists.berlios.de/pipermail/leastcosterxp-news/attachments/20070526/3c7a36f7/attachment.html>
+
+From stefan.fruhner at googlemail.com  Tue May 29 12:02:05 2007
+From: stefan.fruhner at googlemail.com (Stefan Fruhner)
+Date: Tue, 29 May 2007 12:02:05 +0200
+Subject: [Leastcosterxp-news] Forum
+Message-ID: <a48b20460705290302x1ed3a5dapf25b3512dc7dc437@mail.gmail.com>
+
+Hallo,
+
+die Adresse des Forums hat sich leicht geändert:
+
+http://darkempire.da.funpic.de/phpBB3
+
+Grüße Stefan
+
+-- 
+LeastCosterXP - ein LCR zur Modem/ISDN - Einwahl für IbC-Tarife
+http://www.mehrsurfen.de
+-------------- nächster Teil --------------
+Ein Dateianhang mit HTML-Daten wurde abgetrennt...
+URL: <https://lists.berlios.de/pipermail/leastcosterxp-news/attachments/20070529/22abade5/attachment.html>
+

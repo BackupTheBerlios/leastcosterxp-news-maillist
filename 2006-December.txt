@@ -1,0 +1,93 @@
+From stefan.fruhner at googlemail.com  Sun Dec 10 16:58:18 2006
+From: stefan.fruhner at googlemail.com (Stefan Fruhner)
+Date: Sun, 10 Dec 2006 16:58:18 +0100
+Subject: [Leastcosterxp-news] Neue Testversion 1.3.8.9
+Message-ID: <457C2E9A.1020409@googlemail.com>
+
+Hallo,
+
+ >> http://darkempire.da.funpic.de/phpBB2/viewtopic.php?t=177 <<
+
+ich habe jetzt mal die Beta-Version 1.3.8.9 halbwegs fertig. Bitte denkt 
+daran, dass BonGoBon auch in einer aktuellen Testversion vorliegt und 
+installiert werden muss, da ich jetzt ein anderes Tarifformat benutze:
+
+http://darkempire.da.funpic.de/phpBB2/viewtopic.php?t=163
+
+Neues:
+-- die Tarife werden hoffentlich nur angezeigt, wenn sie gelten
+
+-- Neu: Automatisierte Einwahl, siehe Einstellungen > Automatik(2) > 
+bitte ausführlich testen, ist ganz frisch
+
+-- Ausserdem würde ich gern wissen, wie es jetzt unter Win9x läuft ? 
+Wann wird verbunden und wie wird gezählt ?
+
+-- einige Datums-Konvertierungen im Verarbeiten der Log-Dateien waren 
+problematisch, die hab ich umgestellt
+
+Grüße Stefan
+
+
+
+
+From stefan.fruhner at googlemail.com  Sat Dec 23 14:33:15 2006
+From: stefan.fruhner at googlemail.com (Stefan Fruhner)
+Date: Sat, 23 Dec 2006 14:33:15 +0100
+Subject: [Leastcosterxp-news] Update auf Version 1.3.9.0
+Message-ID: <a48b20460612230533j7ecd6b56x3cdf20ee6fe6cfb4@mail.gmail.com>
+
+Hallo,
+
+Die Updates auf Version 1.3.9.0 laufen ab heute durch. Die letzte
+Beta-Version lief anscheinend stabil. Ich habe nur ein paar kleinere
+Änderungen durchgeführt, z.B. werden Automatik-Funktionen jetzt farblich
+markiert, wobei die Farbe auf die Prioriät schließen läßt. (rot: wichtig,
+grün: leerlauf, gelb: Auto-Einwahl)
+
+Die Datei delzip**.dll kann in Zukunft gelöscht werden. Ich verzicht auf
+dieses Modul in Zukunft. Dadurch musste ich allerdings auch die
+update.exemodifizieren, die auch heute per Update reinschneit.
+
+Zusätzlich muss BonGoBon ab Version 0.0.4 eingesetzt werden. Auch dieses
+sollte im Update enthalten sein.
+
+Der Download auf der Webseite ist ab sofort die aktuelle Version.
+
+Grüße Stefan
+
+-- 
+LeastCosterXP - ein LCR zur Modem/ISDN - Einwahl für IbC-Tarife
+http://www.mehrsurfen.de
+-------------- nächster Teil --------------
+Ein Dateianhang mit HTML-Daten wurde abgetrennt...
+URL: <https://lists.berlios.de/pipermail/leastcosterxp-news/attachments/20061223/4e512ca9/attachment.html>
+
+From stefan.fruhner at googlemail.com  Mon Dec 25 16:03:34 2006
+From: stefan.fruhner at googlemail.com (Stefan Fruhner)
+Date: Mon, 25 Dec 2006 16:03:34 +0100
+Subject: [Leastcosterxp-news] zum Update auf 1.3.9.0
+Message-ID: <a48b20460612250703x3dcc2d1fyfeb1be72b3286501@mail.gmail.com>
+
+Hallo,
+
+beim letzten Update gab es leider ein paar Unregelmäßigkeiten. Diejenigen,
+die eigene tarfie einpflegen sollten darauf achten, dass BonGoBon auch
+aktualiesiert wurd und nun in der Version 0.0.4.0 vorliegt. Anscheinend lief
+diese Update nicht überall sauber, so dass noch die Version
+0.0.3.0installiert ist, die hat jedoch zur Folge, das BonGoBon ALLE
+Tarife
+überschreibt. Um das Problem zu beheben ist unter Einstellungen > PlugIns >
+die alte Version zu deinstallieren und die neue zu installieren, die jeder
+auf der Webseite > Download finden kann.
+
+Schöne Grüße und frohe Weihnachten.
+Stefan
+
+-- 
+LeastCosterXP - ein LCR zur Modem/ISDN - Einwahl für IbC-Tarife
+http://www.mehrsurfen.de
+-------------- nächster Teil --------------
+Ein Dateianhang mit HTML-Daten wurde abgetrennt...
+URL: <https://lists.berlios.de/pipermail/leastcosterxp-news/attachments/20061225/57274c25/attachment.html>
+
